@@ -316,11 +316,13 @@ input[type="submit"]:hover {
   .menu img {
     width: 280px;
     height: 280px;
+    margin-left: 100px;
   }
 
   .container footer p {
     font-size: 12px;
-    margin: 0 auto;
+    margin-left: 24px;
+   
   }
 
   .contact {
