@@ -259,7 +259,7 @@ input[type="submit"]:hover {
   }
 
   header nav {
-    margin-left: -148px;
+    margin-left: -162px;
   }
 
   header li {
@@ -283,7 +283,7 @@ input[type="submit"]:hover {
     margin-top: 32px;
     margin-bottom: -64px;
     height: 250px;
-    width: 400px;
+    width: 350px;
   }
 
   .news section {
@@ -316,7 +316,7 @@ input[type="submit"]:hover {
   .menu img {
     width: 280px;
     height: 280px;
-    margin-left: 100px;
+    margin-left: 60px;
   }
 
   .container footer p {
