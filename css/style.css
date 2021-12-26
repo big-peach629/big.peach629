@@ -283,6 +283,7 @@ input[type="submit"]:hover {
     margin-top: 32px;
     margin-bottom: -64px;
     height: 250px;
+    width: 400px;
   }
 
   .news section {
@@ -307,17 +308,15 @@ input[type="submit"]:hover {
   }
 
   .menu .container {
-    margin-left: 64px;
     margin-top: 16px;
     gap: 8px;
     display: block;
   }
 
-  footer img {
-    width: 100px;
-    height: 100px;
+  .menu img {
+    width: 280px;
+    height: 280px;
   }
-
 
   .container footer p {
     font-size: 12px;
@@ -330,7 +329,6 @@ input[type="submit"]:hover {
 
   .contact a {
     font-size: 20px;
-  
   }
 
   label {
